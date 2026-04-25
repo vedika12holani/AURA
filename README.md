@@ -1,28 +1,31 @@
 # AURA
 Interactive GenAI Agent for Command-Line Interfaces
 
-# Overview
+## Overview
 
 AURA is an AI-powered assistant that simplifies the use of command-line interfaces (CLI). It allows users to enter commands in natural language and converts them into executable Bash commands using Generative AI. The system follows an interactive approach by asking follow-up questions to better understand user intent and improve accuracy.
 
-# Features
-Natural Language to Bash Command Conversion
-Interactive Query Refinement
-Context-Aware Command Generation
-Error Handling and Safety Validation
-Execution-Based Testing
-Beginner-Friendly CLI Interaction
+## Features
 
-# Tech Stack
-Programming Language: Python
-Concepts: Generative AI, NLP, Prompt Engineering
-Environment: Command Line Interface (CLI)
-Additional: Human-Computer Interaction (HCI), Testing and Validation
+1. Natural Language to Bash Command Conversion  
+2. Interactive Query Refinement  
+3. Context-Aware Command Generation  
+4. Error Handling and Safety Validation  
+5. Execution-Based Testing  
+6. Beginner-Friendly CLI Interaction  
 
-# How It Works
-User enters a command in natural language
-The system processes the input using Python
-A GenAI model generates the corresponding Bash command
-The system asks follow-up questions if needed
-The command is validated before execution
-Output is displayed to the user
+## Tech Stack
+
+- **Programming Language:** Python  
+- **Concepts:** Generative AI, NLP, Prompt Engineering  
+- **Environment:** Command Line Interface (CLI)  
+- **Additional:** Human-Computer Interaction (HCI), Testing and Validation  
+
+## How It Works
+
+1. User enters a command in natural language  
+2. The system processes the input using Python  
+3. A GenAI model generates the corresponding Bash command  
+4. The system asks follow-up questions if needed  
+5. The command is validated before execution  
+6. Output is displayed to the user  
